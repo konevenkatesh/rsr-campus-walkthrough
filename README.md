@@ -32,6 +32,20 @@ Stairs climb themselves.
 Single self-contained HTML file — three.js r160 (MIT) is inlined, geometry is
 quantised to uint16 and base64'd. No CDN, no build step, works offline.
 
+## See the real campus
+
+The college's own footage, for comparison with the model:
+
+* **Campus tour video** &mdash; https://www.youtube.com/watch?v=wnfMs3WeQXk
+* **1-minute promo** &mdash; https://www.youtube.com/watch?v=Xy57U3SdTyA
+* **College YouTube channel** &mdash; https://www.youtube.com/channel/UCKqqj6ypgms5tWYv459x_3A
+* **Official site** &mdash; https://www.rsrec.edu.in/
+
+These videos are the college's own and are linked, not embedded or redistributed.
+They are also the best available input for a future photogrammetric version: a drone
+orbit of the main block at ~30 m and ~60 m would reconstruct the real surfaces,
+where this model is measured massing.
+
 ## How it was made
 
 Modelled from **two published drone photographs** on the college website. Absolute
